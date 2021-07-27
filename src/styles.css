@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.HeroImg {
+  max-height: 90px;
+}
+
+#heroContainer {
+  border-style: double;
+}
